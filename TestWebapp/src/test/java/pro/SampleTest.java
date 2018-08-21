@@ -5,7 +5,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class SampleTest {
-	public static void main(String args[]){
 
 	@Test
 	public void test1() {
@@ -16,7 +15,7 @@ public class SampleTest {
 	public void test2() {
 		assertEquals(10, 5*2);
 	}
-	}
+	
 
 
 }
